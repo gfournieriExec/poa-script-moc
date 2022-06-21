@@ -1,4 +1,3 @@
-const generateInitialKey = require('./generateInitialKey');
+const generateInitialKey = require("./generateInitialKey");
 
-generateInitialKey();
-
+generateInitialKey("0xKEYS_MANAGER_ADDRESS");
